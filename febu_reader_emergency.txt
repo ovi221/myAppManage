@@ -1,0 +1,2 @@
+
+<#>[{"id":"3","u_id":"admin","package_name":"febu_reader","password":null,"updated_id":"0","device_info":null,"user_nick_name":null,"ad_id":null,"ad_control":null,"message_to_new_user":null,"message_to_user":null,"replay_from_user":null,"request_count":null,"last_request_time":"01\/14\/2021 02:37:08 PM","admin_request":null,"updated_version":"3","update_message":null,"working_server":"http:\/\/sim.cu.ma\/","app_manage_server":"http:\/\/bike.c1.biz\/android\/app\/"}]
